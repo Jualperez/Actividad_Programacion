@@ -1,0 +1,6 @@
+C:\Users\juako\Desktop\Proyetos\Proyecto1_Unidad3\Proyecto1_DAL\bin\Debug\Proyecto1_DAL.dll
+C:\Users\juako\Desktop\Proyetos\Proyecto1_Unidad3\Proyecto1_DAL\bin\Debug\Proyecto1_DAL.pdb
+C:\Users\juako\Desktop\Proyetos\Proyecto1_Unidad3\Proyecto1_DAL\obj\Debug\Proyecto1_DAL.csprojAssemblyReference.cache
+C:\Users\juako\Desktop\Proyetos\Proyecto1_Unidad3\Proyecto1_DAL\obj\Debug\Proyecto1_DAL.csproj.CoreCompileInputs.cache
+C:\Users\juako\Desktop\Proyetos\Proyecto1_Unidad3\Proyecto1_DAL\obj\Debug\Proyecto1_DAL.dll
+C:\Users\juako\Desktop\Proyetos\Proyecto1_Unidad3\Proyecto1_DAL\obj\Debug\Proyecto1_DAL.pdb
